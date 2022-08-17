@@ -1,0 +1,19 @@
+footer{
+    height: 300px;
+    text-align: center;
+    background-image: url("../fotos/red.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rodape_logo{
+    padding-top: 75px;
+    height: 100px;
+}
+
+.copyright {
+    color: white;
+    padding-top: 50px;
+    font-size: 15px;
+
+}

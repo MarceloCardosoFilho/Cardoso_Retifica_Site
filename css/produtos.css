@@ -1,0 +1,54 @@
+.imagem{
+    width: 296px;
+    height: 296px;
+}
+
+main{
+    background: linear-gradient(gray, white);
+}
+
+.produtos{
+    padding: 50px 0;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.produtos li{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5%;
+    vertical-align: top;
+    margin: 0 1%;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.produtos li:hover {
+    border-color: #adab05;
+}
+
+.produtos li:hover h2{
+    font-size: 29px;
+}
+
+.produtos li:active {
+    border-color: red;
+}
+
+.produtos h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.produtos_descricao{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.produto_preco{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+}
