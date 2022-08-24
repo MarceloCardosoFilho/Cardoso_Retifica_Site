@@ -11,11 +11,13 @@
     font-size: 2em;
     margin: 0 0 1em;
     text-align: center;
-    font-family:serif
+    font-family:serif;
 }
 
 .sessao0 p{
     margin: 0 0 1em;
+    text-align: center;
+    font-size: 16px;
 }
 
 .principal strong{
